@@ -21,7 +21,26 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 * Role: Project Advisor
 
-### Panneer
+### Narayanamurthy Sriram
+
+<img src="images/nsriram18.png" width="200px">
+
+[[github](http://github.com/nsriram18)]
+[[portfolio]()]
+
+* Role: Team Lead
+* Responsibilities: UI
+
+### Lee Hong Sheng
+
+<img src="images/righthandside.png" width="200px">
+
+[[github](https://github.com/righthandside)]
+
+* Role:
+* Responsibilities:
+
+### Jean Doe
 
 <img src="images/spadewiz.png" width="200px">
 
@@ -30,31 +49,12 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Developer
 * Responsibilities: Requirements, Testing, Quality Assurance
 
-### Johnny Doe
+### Toh Wei Jun
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/weijun72.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
-
-* Role: Developer
-* Responsibilities: Data
-
-### Jean Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
+[[github](http://github.com/weijun72)]
 [[portfolio](team/johndoe.md)]
 
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
-
-### James Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
-
-* Role: Developer
-* Responsibilities: UI
