@@ -21,14 +21,14 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 * Role: Project Advisor
 
-### Jane Doe
+### Panneer
 
 <img src="images/spadewiz.png" width="200px">
 
 [[github](https://github.com/spadewiz)]
 
-* Role: Team Lead
-* Responsibilities: UI
+* Role: Developer
+* Responsibilities: Requirements, Testing, Quality Assurance
 
 ### Johnny Doe
 
